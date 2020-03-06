@@ -1,0 +1,19 @@
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.exe.config
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.exe
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.pdb
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.csprojAssemblyReference.cache
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.csproj.GenerateResource.cache
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.exe
+C:\Users\GM ELECTRONICS MTY\Desktop\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.pdb
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.exe.config
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.exe
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\bin\Debug\113 EA1 E7.pdb
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.csproj.GenerateResource.cache
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.exe
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\113 EA1 E7.pdb
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.splashScreen.resources
+C:\Users\Samsung\Documents\Pruebas\C#\C# con Interfaz de usuario\113 EA1 E7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.principal.resources
